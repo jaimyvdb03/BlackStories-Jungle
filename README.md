@@ -11,6 +11,7 @@ Zorg dat je [Node.js](https://nodejs.org/) op je systeem hebt geïnstalleerd.
 ### 1. Clone de repository
 
 git clone https://github.com/jaimyvdb03/BlackStories-Jungle.git
+
 cd je-projectnaam
 
 ## 2. Installatie backend
