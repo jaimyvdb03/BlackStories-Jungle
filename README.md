@@ -16,12 +16,14 @@ cd je-projectnaam
 ## 2. Installatie backend
 
 cd server
+
 npm install
 
 npm run dev
 
 ## 3. Installatie frontend
 cd client
+
 npm install
 
 npm run dev
